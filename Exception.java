@@ -17,6 +17,13 @@ public class Exception {
 	                   System.out.println("ArrayIndexOutOfBounds Exception occurs");  
 	                  }    
 	                         
-	               //System.out.println("rest of the code");    
+	               //System.out.println("rest of the code");   
+
+
+
+
+dfgjklksdfghjklwertyuioSZDfxgchvjbkl
+
+rgdhjkl 
 	    }  
 	}  
